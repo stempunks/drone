@@ -1,0 +1,1 @@
+{"name": "microbit-rc-controller","version": "0.0.1","description": "Micro:bit RC Transmitter for drone control via radio.","license": "MIT","dependencies": {"core": "","radio": ""},"files": ["README.md","rc_controller.ts"],"testFiles": ["test.ts"],"public": true}
